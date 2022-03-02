@@ -1,6 +1,6 @@
 # Conjuntos de datos de Fundación Osborne dedicados al avance en el procesamiento automático de documentos
 
-Con el fin de contribuir al desarrollo científico de los modelos de reconocimiento automático, aquí presentamos varios conjuntos de datos de elementos (palabras, firmas, sellos y timbres) que pueden ser localizados y reconocidos en algunos de los Archivos de la Fundación Osborne.
+Con el fin de contribuir al desarrollo científico de los modelos de reconocimiento automático de documentos, aquí presentamos varios conjuntos de datos de diferentes elementos (palabras, firmas, sellos y timbres) que pueden ser localizados y reconocidos en algunos de los documentos del Archivo de Documentos Históricos de la Fundación Osborne.
 
 <img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/blob/main/Collage.png">
 
@@ -53,7 +53,7 @@ Estas bases de datos solo pueden ser usadas con motivo de enseñaza o de investi
 
 # Fundación-Osborne datasets for the improvement of automatic documment processing
 
-In order to contribute to the scientific development of authomatic recognition models, here we present several datasets of elements (words, signatures, seals and postmarks) that can be localized and recognized into some of the Fundación Osborne Archive.
+In order to contribute to the scientific development of authomatic recognition models, here we present several datasets of document elements (words, signatures, seals and postmarks) that can be localized and recognized into some of the documents of the Fundación Osborne Historical Document Archive.
 
 ## Word dataset
 
