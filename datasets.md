@@ -66,7 +66,7 @@ In order to contribute to the scientific development of authomatic recognition m
 - 7631 word images in PNG format
 - 40 different writers
 - 116.2 MiB
-- <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/EiBS0Bnkq_tBjGRUzaN6bukBlUepDO5SnHdQUk_MZC0cbQ?e=FweO6H">[Download palabras]</a>
+- <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/EiBS0Bnkq_tBjGRUzaN6bukBlUepDO5SnHdQUk_MZC0cbQ?e=FweO6H">[Download words]</a>
 
 ## Signature dataset
 
