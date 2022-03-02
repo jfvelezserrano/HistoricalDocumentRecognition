@@ -48,7 +48,7 @@ Con el fin de contribuir al desarrollo científico de los modelos de reconocimie
 
 ## Términos de uso
 
-Estas bases de datos solo pueden ser usadas con motivo de enseñaza o de investigaciones no comerciales. Si se publica algun trabajo basado en cualquiera de estos conjuntos de datos de la Fundación-Osborne, deben incluir una referencia a nuestro art C. Terry-Osborne et al. "The Fundación-Osborne Historical Archive Digitization" in IWINAC 2022.
+Estas bases de datos solo pueden ser usadas con motivo de enseñaza o de investigaciones no comerciales. Cualquier trabajo o publicación que utilice total o parcialmente cualquiera de estos conjuntos de datos de la Fundación-Osborne, debe incluir una referencia al siguiente artículo: C. Terry-Osborne et al., The Fundación-Osborne Historical Archive Digitization, IWINAC 2022: 9th International Work-Conference on the Interplay Between Natural and Artificial Computation, 2022.
 
 
 # Fundación-Osborne datasets for the improvement of automatic documment processing
@@ -100,4 +100,4 @@ In order to contribute to the scientific development of authomatic recognition m
 
 ## Terms of Use
 
-These datasets may be used for non-commercial research and teaching purposes only. If you are publishing scientific work based on any Fundación-Osborne dataset database, we request you to include a reference to our paper C. Terry-Osborne et al. "The Fundación-Osborne Historical Archive Digitization" in IWINAC 2022.
+These datasets may be used for non-commercial research and teaching purposes only. If you are publishing scientific work based on any Fundación-Osborne dataset database, we request you to include a reference to our paper C. Terry-Osborne et al., The Fundación-Osborne Historical Archive Digitization, IWINAC 2022: 9th International Work-Conference on the Interplay Between Natural and Artificial Computation, 2022.
