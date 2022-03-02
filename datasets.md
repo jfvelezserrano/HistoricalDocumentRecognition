@@ -2,7 +2,7 @@
 
 Con el fin de contribuir al desarrollo científico de los modelos de reconocimiento automático, aquí presentamos varios conjuntos de datos de elementos (palabras, firmas, sellos y timbres) que pueden ser localizados y reconocidos en algunos de los Archivos de la Fundación Osborne.
 
-<img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/Collage.png">
+<img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/blob/main/Collage.png">
 
 ## Conjunto de datos de palabras
 
