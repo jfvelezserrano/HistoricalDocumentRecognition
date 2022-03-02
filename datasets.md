@@ -90,7 +90,7 @@ In order to contribute to the scientific development of authomatic recognition m
 
 ## Postmark dataset
 
-- Postmarks extracyed from Fundación-Osborne Archive
+- Postmarks extracted from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in color
 - 18 images
