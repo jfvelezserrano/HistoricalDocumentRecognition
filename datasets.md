@@ -59,7 +59,7 @@ In order to contribute to the scientific development of authomatic recognition m
 
 ## Word dataset
 
-- Handwritten words from Fundación-Osborne archive
+- Handwritten words from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in gray levels
 - Transcribed in the filename
@@ -70,7 +70,7 @@ In order to contribute to the scientific development of authomatic recognition m
 
 ## Signature dataset
 
-- Handwritten signatures from Fundación-Osborne archive
+- Handwritten signatures from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in color
 - 115 signature images in PNG format
@@ -80,7 +80,7 @@ In order to contribute to the scientific development of authomatic recognition m
 
 ## Family seal dataset
 
-- Sellos de familia extraidas de los documentos históricos del archivo de Fundación Osborne
+- Family seals extracted from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in color
 - 41 family seal images and reverses in PNG format
@@ -90,7 +90,7 @@ In order to contribute to the scientific development of authomatic recognition m
 
 ## Postmark dataset
 
-- Matasellos extraidos de los documentos históricos del archivo de Fundación Osborne
+- Postmarks extracyed from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in color
 - 18 images
