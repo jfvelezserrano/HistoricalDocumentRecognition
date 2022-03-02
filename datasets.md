@@ -1,6 +1,6 @@
 # Conjuntos de datos de Fundación Osborne dedicados al avance en el procesamiento automático de documentos
 
-Con el fin de contribuir al desarrollo científico de los modelos de reconocimiento automático de documentos, aquí presentamos varios conjuntos de datos de diferentes elementos (palabras, firmas, sellos y timbres) que pueden ser localizados y reconocidos en algunos de los documentos del Archivo de Documentos Históricos de la Fundación Osborne.
+Con el fin de contribuir al desarrollo científico de los modelos de reconocimiento automático de documentos, aquí presentamos varios conjuntos de datos de diferentes elementos (palabras, firmas, sellos y matasellos) que pueden ser localizados y reconocidos en algunos de los documentos del Archivo de Documentos Históricos de la Fundación Osborne.
 
 <img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/blob/main/Collage.png">
 
