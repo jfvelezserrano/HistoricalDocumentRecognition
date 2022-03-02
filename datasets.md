@@ -2,6 +2,8 @@
 
 Con el fin de contribuir al desarrollo científico de los modelos de reconocimiento automático, aquí presentamos varios conjuntos de datos de elementos (palabras, firmas, sellos y timbres) que pueden ser localizados y reconocidos en algunos de los Archivos de la Fundación Osborne.
 
+<img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/Collage.png">
+
 ## Conjunto de datos de palabras
 
 - Palabras manuscritas extraidas de los documentos históricos del archivo de Fundación Osborne
@@ -12,6 +14,7 @@ Con el fin de contribuir al desarrollo científico de los modelos de reconocimie
 - 40 escritores diferentes
 - 116.2 MiB
 - <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/EiBS0Bnkq_tBjGRUzaN6bukBlUepDO5SnHdQUk_MZC0cbQ?e=FweO6H">[Descargar palabras]</a>
+
 
 ## Conjunto de datos de firmas
 
@@ -40,7 +43,7 @@ Con el fin de contribuir al desarrollo científico de los modelos de reconocimie
 - Digitalización a 400 DPI en color
 - 18 Imágenes
 - 9.2 MiB
-- <a https://urjc-my.sharepoint.com/:u:/g/personal/jose_velez_urjc_es/EVbStpjh56lImJE-9BqpQwwB48vbukzrIRMYMo8CwuuL2w?e=oP6pbD>[Descargar matasellos]</a>
+- <a href="https://urjc-my.sharepoint.com/:u:/g/personal/jose_velez_urjc_es/EVbStpjh56lImJE-9BqpQwwB48vbukzrIRMYMo8CwuuL2w?e=oP6pbD">[Descargar matasellos]</a>
 
 
 ## Términos de uso
@@ -90,7 +93,7 @@ In order to contribute to the scientific development of authomatic recognition m
 - Digitized at 400 DPI in color
 - 18 images
 - 9.2 MiB
-- <a https://urjc-my.sharepoint.com/:u:/g/personal/jose_velez_urjc_es/EVbStpjh56lImJE-9BqpQwwB48vbukzrIRMYMo8CwuuL2w?e=oP6pbD>[Download postmarks]</a>
+- <a href="https://urjc-my.sharepoint.com/:u:/g/personal/jose_velez_urjc_es/EVbStpjh56lImJE-9BqpQwwB48vbukzrIRMYMo8CwuuL2w?e=oP6pbD">[Download postmarks]</a>
 
 
 ## Terms of Use
