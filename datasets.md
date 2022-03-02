@@ -55,6 +55,8 @@ Estas bases de datos solo pueden ser usadas con motivo de enseñaza o de investi
 
 In order to contribute to the scientific development of authomatic recognition models, here we present several datasets of document elements (words, signatures, seals and postmarks) that can be localized and recognized into some of the documents of the Fundación Osborne Historical Document Archive.
 
+<img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/blob/main/Collage.png">
+
 ## Word dataset
 
 - Handwritten words from Fundación-Osborne archive
