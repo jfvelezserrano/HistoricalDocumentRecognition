@@ -5,19 +5,20 @@ Con el fin de contribuir al desarrollo científico de los modelos de reconocimie
 <img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/blob/main/Collage.png">
 
 <H2> Conjunto de datos de palabras </H2>
-
-- Palabras manuscritas extraidas de los documentos históricos del archivo de Fundación Osborne
-- Siglo XIX
-- Digitalización a 400 DPI en niveles de gris
-- Transcripción dentro del nombre del fichero
-- 7631 imágenes de palabras en formato PNG
-- 40 escritores diferentes
-- 116.2 MiB
-- <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/EiBS0Bnkq_tBjGRUzaN6bukBlUepDO5SnHdQUk_MZC0cbQ?e=FweO6H">[Descargar palabras]</a>
-
+<ul>
+<li>Palabras manuscritas extraidas de los documentos históricos del archivo de Fundación Osborne</li>
+<li>Siglo XIX</li>
+<li>Digitalización a 400 DPI en niveles de gris</li>
+<li>Transcripción dentro del nombre del fichero</li>
+<li>7631 imágenes de palabras en formato PNG</li>
+<li>40 escritores diferentes</li>
+<li>116.2 MiB</li>
+<li><a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/EiBS0Bnkq_tBjGRUzaN6bukBlUepDO5SnHdQUk_MZC0cbQ?e=FweO6H">[Descargar palabras]</a></li>
+</ul>
 
 <H2>Conjunto de datos de firmas</H2>
 
+<ul>
 - Firmas manuscritas extraidas de los documentos históricos del archivo de Fundación Osborne
 - Siglo XIX
 - Digitalización a 400 DPI en color
@@ -25,9 +26,11 @@ Con el fin de contribuir al desarrollo científico de los modelos de reconocimie
 - 40 firmantes diferentes
 - 103.9 MiB
 - <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/Eo00PmPp_pxGs-h1MgCgEsMBb8fBcuYI1NQ92Yaf0s2ijg?e=1OedAW">[Descargar firmas]</a>
+</ul>
 
 <H2>Conjunto de datos de sellos de familia</H2>
 
+<ul>
 - Sellos de familia extraidas de los documentos históricos del archivo de Fundación Osborne
 - Siglo XIX
 - Digitalización a 400 DPI en color
@@ -35,16 +38,18 @@ Con el fin de contribuir al desarrollo científico de los modelos de reconocimie
 - 22 sellos diferentes
 - 9.4 MiB
 - <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/Ejpif_2Ty9pGmyPfzgIOg-gBJbWZ8EoiuXBGVrTurK81EA?e=rb6VPO">[Descargar sellos]</a>
+</ul>
 
 <H2>Conjunto de datos de matasellos</H2>
 
+<ul>
 - Matasellos extraidos de los documentos históricos del archivo de Fundación Osborne
 - Siglo XIX
 - Digitalización a 400 DPI en color
 - 18 Imágenes
 - 9.2 MiB
 - <a href="https://urjc-my.sharepoint.com/:u:/g/personal/jose_velez_urjc_es/EVbStpjh56lImJE-9BqpQwwB48vbukzrIRMYMo8CwuuL2w?e=oP6pbD">[Descargar matasellos]</a>
-
+</ul>
 
 <H2>Términos de uso</H2>
 
@@ -59,6 +64,7 @@ In order to contribute to the scientific development of authomatic recognition m
 
 <H2>Word dataset</H2>
 
+<ul>
 - Handwritten words from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in gray levels
@@ -67,9 +73,11 @@ In order to contribute to the scientific development of authomatic recognition m
 - 40 different writers
 - 116.2 MiB
 - <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/EiBS0Bnkq_tBjGRUzaN6bukBlUepDO5SnHdQUk_MZC0cbQ?e=FweO6H">[Download words]</a>
+</ul>
 
 <H2>Signature dataset</H2>
 
+<ul>
 - Handwritten signatures from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in color
@@ -77,9 +85,11 @@ In order to contribute to the scientific development of authomatic recognition m
 - 40 different signers
 - 103.9 MiB
 - <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/Eo00PmPp_pxGs-h1MgCgEsMBb8fBcuYI1NQ92Yaf0s2ijg?e=1OedAW">[Download signatures]</a>
+</ul>
 
 <H2>Family seal dataset</H2>
 
+<ul>
 - Family seals extracted from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in color
@@ -87,16 +97,18 @@ In order to contribute to the scientific development of authomatic recognition m
 - 22 sellos diferentes
 - 9.4 MiB
 - <a href="https://urjc-my.sharepoint.com/:f:/g/personal/jose_velez_urjc_es/Ejpif_2Ty9pGmyPfzgIOg-gBJbWZ8EoiuXBGVrTurK81EA?e=rb6VPO">[Download family seals]</a>
+</ul>
 
 <H2>Postmark dataset</H2>
 
+<ul>
 - Postmarks extracted from Fundación-Osborne Archive
 - 19th century
 - Digitized at 400 DPI in color
 - 18 images
 - 9.2 MiB
 - <a href="https://urjc-my.sharepoint.com/:u:/g/personal/jose_velez_urjc_es/EVbStpjh56lImJE-9BqpQwwB48vbukzrIRMYMo8CwuuL2w?e=oP6pbD">[Download postmarks]</a>
-
+</ul>
 
 <H2>Terms of Use</H2>
 
