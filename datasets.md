@@ -1,10 +1,10 @@
-# Conjuntos de datos de Fundación Osborne dedicados al avance en el procesamiento automático de documentos
+<H1> Conjuntos de datos de Fundación Osborne dedicados al avance en el procesamiento automático de documentos </H1>
 
 Con el fin de contribuir al desarrollo científico de los modelos de reconocimiento automático de documentos, aquí presentamos varios conjuntos de datos de diferentes elementos (palabras, firmas, sellos y matasellos) que pueden ser localizados y reconocidos en algunos de los documentos del Archivo de Documentos Históricos de la Fundación Osborne.
 
 <img src="https://github.com/jfvelezserrano/HistoricalDocumentRecognition/blob/main/Collage.png">
 
-## Conjunto de datos de palabras
+<H2> Conjunto de datos de palabras </H2>
 
 - Palabras manuscritas extraidas de los documentos históricos del archivo de Fundación Osborne
 - Siglo XIX
